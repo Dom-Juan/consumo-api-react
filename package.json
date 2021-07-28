@@ -1,0 +1,11 @@
+{
+  "name": "server-api",
+  "version": "1.0.0",
+  "description": "\"Simple server for learning purposes.\"",
+  "main": "server.js",
+  "author": "\"Juan Cardoso da Silva\"",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
